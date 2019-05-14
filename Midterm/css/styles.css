@@ -8,7 +8,9 @@ font-family:arial;
     background-color: antiquewhite
 }
 h1 {
-    font-family: cursive
+    font-family: cursive;
+    background-color: cornsilk
+
 }
 {border-image: url(../Images/profpic.jpg) 20 round;
 }
