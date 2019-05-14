@@ -4,9 +4,11 @@ body {
 font-family:arial;
        border-width: 4px;
    border-style: groove;
-    border-color: magenta;
+    border-color: azure;
     background-color: antiquewhite
 }
 h1 {
     font-family: cursive
+}
+{border-image: url(../Images/profpic.jpg) 20 round;
 }
