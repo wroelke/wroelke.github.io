@@ -23,7 +23,7 @@ h1 {
 img {
     border: 2px solid;
     border-color: blue;
-    float: left;
+   
     height: 250px;
     width: 250px;
     max-height: 100%;
@@ -32,7 +32,7 @@ img {
 }
 
 .prof  {
-  float: left;
+  
 } 
 
 .main{
