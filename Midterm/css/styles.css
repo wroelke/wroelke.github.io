@@ -19,8 +19,9 @@ h1 {
     background-color: ghostwhite
 
 }
-{border-image: url(../Images/profpic.jpg) 20 round;
-
+img {
+    border: 2px solid;
+    border-color: blue;
 }
 
 .prof  {
