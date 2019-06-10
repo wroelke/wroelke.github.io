@@ -8,6 +8,7 @@ font-family: 'Poppins', sans-serif;
     background-color: ghostwhite
 }
 h1 {
+    margin: 20px;
      font-size: 100px;
     text-align: center;
     font-family: 'Poppins', sans-serif;
@@ -23,7 +24,7 @@ img  {
 } 
 
 .main{
-    margin-left: 100px
-    padding: 100px
+    margin-left: 100px;
+    padding: 100px;
     
 }
