@@ -39,4 +39,13 @@ img {
 .list{
     padding:10px;
     padding-left: 90px;
+    
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+ol {
+    text-align: center;
+    list-style-position: inside;
 }
