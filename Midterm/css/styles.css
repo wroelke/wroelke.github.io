@@ -19,13 +19,12 @@ h1 {
 
 }
 
-img  {
+.prof  {
   float: left;
 } 
 
 .main{
     margin-left: 100px;
     padding: 100px;
-    float: right;
-    
+   
 }
