@@ -29,7 +29,7 @@ img {
 } 
 
 .main{
-    align-content: center;
+    text-align: center;
     margin-left: 100px;
     padding: 10px;
     padding-left: 90px;
