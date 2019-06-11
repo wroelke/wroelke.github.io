@@ -70,8 +70,9 @@ ol {
 }
 .hell{
     font-family: 'Lakki Reddy', cursive;
-    text-decoration-color: orangered;
     text-align: center
+    letter-spacing: 3px;
+    color: orangered;
 }
 .hell2{
     text-decoration-color: white;
