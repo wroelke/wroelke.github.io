@@ -50,7 +50,6 @@ align-content: center
 } 
 
 .main{
-    display: block
     text-align: left;
     margin-left: 100px;
     padding: 10px;
