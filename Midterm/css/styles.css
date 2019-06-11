@@ -75,8 +75,8 @@ ol {
     color: orangered;
 }
 .hell2{
-  color: white
-    font-kerning: wide;
+  color: white;
+letter-spacing: inherit
 }
 .hellimg{
 margin-left: 550px;
